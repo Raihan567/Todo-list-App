@@ -1,6 +1,6 @@
 ## Screenshots:
 
-![App Screenshot](https://i.ibb.co/9qk4CBw/demo.png)
+![App Screenshot](https://i.ibb.co/TKsf4PJ/Screenshot-85.png)
 
 #  A Todo List Application:
 
